@@ -31,7 +31,7 @@ Para la realización de este proyecto, se han utilizado las siguientes tecnolog�
 1. **Clonar el Repositorio**: Abrir una terminal (o CMD) y clona el repositorio Challenge ONE Literalura desde GitHub:
 
    ```bash
-   git clone <url_del_repositorio_github>
+   git clone [<url_del_repositorio_github>](https://github.com/axel-23/challenge-one-literalura.git)
    ```
 
 2. **Configuración de la Base de Datos**: Para la persistencia de datos, configuré una base de datos PostgreSQL. Utilicé variables de entorno en el archivo `application.properties` para mantener la configuración de conexión segura y flexible. Las variables de entorno necesarias son:
